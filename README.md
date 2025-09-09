@@ -4,6 +4,7 @@
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.7.13-green?logo=spring)](https://spring.io/projects/spring-boot)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-blue?logo=postgresql)](https://www.postgresql.org/)
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3.8+-yellow?logo=rabbitmq)](https://www.rabbitmq.com/)
+[![Maven](https://img.shields.io/badge/Maven-3.x+-red?logo=apachemaven)](https://maven.apache.org/)
 
 ## 📋 Índice
 
@@ -22,6 +23,7 @@
 - **PostgreSQL** - Banco de dados
 - **JWT**
 - **Lombok**
+- **Maven**
 
 ---
 
